@@ -1,0 +1,9 @@
+It's easy to port code from BASIC to javascript, because variables are global by default.
+
+A few snags:
+
+BASIC uses single equals in if statements for equality, javascript uses two
+BASIC uses GOTO. A lot. Javascript has no GOTO (thank god).
+Arrays seem to be indexed starting at one in this flavor of BASIC. Javascript arrays are zero-indexed, like the rest of the (compsci) world.
+
+Good fun, and bought back some memories. Enjoy! :D
